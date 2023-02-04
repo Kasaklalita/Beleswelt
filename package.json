@@ -4,8 +4,8 @@
     "chromium-args": "--force-color-profile=srgb",
     "window": {
         "title": "Venya_hui_sosi",
-        "width": 1920,
-        "height": 1080,
+        "width": 1280,
+        "height": 720,
         "position": "center",
         "icon": "icon/icon.png"
     }
